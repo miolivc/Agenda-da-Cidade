@@ -5,4 +5,5 @@ package miolivc.com.agendadacidade.model;
  */
 
 public enum EnumStatus {
+
 }
