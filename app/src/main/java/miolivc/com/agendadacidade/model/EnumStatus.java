@@ -5,4 +5,10 @@ package miolivc.com.agendadacidade.model;
  */
 
 public enum EnumStatus {
+    INCLUI(0), ALTERADO(1), EXCLUIDO(2),NONE(3);
+    private long value ;
+
+    EnumStatus(long value) {
+        this.value = value;
+    }
 }
