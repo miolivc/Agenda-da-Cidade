@@ -3,21 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/home/miolivc/AndroidStudioProjects/agenda-da-cidade/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/miolivc/.android/build-cache/e5b79af610c5d766c39e7bd1dce7a4af3857ebdc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58d799abc2a2f04a00fd48255c6f7220af1ecbff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/e4e6240295d7cfe260f5e4770b6cdcafdb55cf22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e29d4e25fdbeaeec17b7014692a0b018b8efdc3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/56eb65ab35f7faa2b911e6594c2fa29fd75e52b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8339bfb14525bc75b99c0a7fb352d9d42f96607a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/d4ea8d54692c4f036161ea4a1c89d96aaaf66b18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37d486d9c24751eb49a2b48e7ba120341d1fc296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/34349fe58fc9559647b557bb5de823f1a27b263f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75f9d626087fca29648867993a0b815db2b44933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/fe6141099a18db00ad38bf560cf9bd21b736d786/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77d6af4973f9049c72267b7f3d573854a8011fa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7c4789e42c93ab6295f72564dfd75ba7858974fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/57a1f43f851dc14cf199a3edf86ff7cfafced6a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6500e8c13b6c69636a00592e150a48e1afb7109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0e00f83967a678f071c8ce4476958668f7a3a49">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_319b37bbd0fb720b0ac12adaa62fc4c5546903f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/miolivc/AndroidStudioProjects/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac8929337fa4bb9e66697223958d530e0fe92694/classes.dex" />
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7f155211b846e4ca28304dc99e5d9671b0a5483/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/miolivc/AndroidStudioProjects/agenda-da-cidade/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/miolivc/.android/build-cache/aef69c57a445a64ec85cdf9c4934adb25e3564e4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="34e6266b2251d6542b7ea6bcafa6bcb6b634e873">
-        <dex dex="/home/miolivc/AndroidStudioProjects/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54ef53e8e89c83e30a5adc08ac3fb9a15517dff4/classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0b3498311e2acbb4a572ddf1fe575653dec7a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/e013fda524c511ade6d080f8aa650e54bc0f96ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea89f7df13fbc699f8af9af46da1da7f6955ddd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/33006811c21c6e17322221c58bf01a95743365e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d169497f6414c3902c10be1e8e9b366af4f243c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/ccf8b5db51a920306d9cb18632585a597a457a0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0561acae561d8a1f05165e2284a9b4d6bbb8fef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_2a39dc922e4251da42c5cdf3cd54e0992289a221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/48e3a9c73cdf1514f52ef624321f30704e8a213a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_761aa16a9cadd9de7e1dee9b0bd9709fee68e6f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miolivc/.android/build-cache/2641d78b1a6c0be9d5fb01ce144a38e01f956b72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/miolivc/Development/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8c5dca2134924b5dfe2e6cafc525c22aeb39fcd/classes.dex" />
     </item>
 
 </items>

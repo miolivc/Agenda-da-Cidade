@@ -11,10 +11,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        
-        TabItem tabContatos = (TabItem) findViewById(R.id.tab_contatos);
-        TabItem tabFavoritos = (TabItem) findViewById(R.id.tab_favoritos);
-        TabItem tabUsuario = (TabItem) findViewById(R.id.tab_usuario);
 
     }
 }

@@ -6,11 +6,4 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="316dp"
-        android:layout_height="53dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Name" />
 </FrameLayout>
