@@ -1,4 +1,3 @@
-
 package miolivc.com.agendadacidade.model;
 
 import java.util.LinkedList;

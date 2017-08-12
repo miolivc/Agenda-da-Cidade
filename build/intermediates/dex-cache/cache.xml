@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/laerton/agendaproject/agenda-da-cidade/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d53a32468c68fd73e9410953f3b5497338c61601">
+        <dex dex="/home/laerton/agendaproject/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f80bd3d89062d87925bdf3be706ae867404032a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/laerton/agendaproject/agenda-da-cidade/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/laerton/agendaproject/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_054b07cc03b1a2b5e3931f3c1475d8ff657fe7c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/laerton/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/laerton/agendaproject/agenda-da-cidade/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_d4f204cb80128dbfb0278ee31774698a597fa8fc/classes.dex" />
+    </item>
+
+</items>
